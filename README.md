@@ -1,8 +1,9 @@
-<img src="https://camo.githubusercontent.com/92319113a91e6741b5c0e7dc3386161ff7ad93ceadc1e53d663682a90136ec14/68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f677765622d756e69626c6f672d7075626c6973682d70726f642f6f726967696e616c5f696d616765732f31363332305f416e64726f69645f31325f426c6f675f4865616465725f6f70745f3331782e676966" alt="Android"/>
-<h1 align="center">Hi 👋, I'm Paraji Holkar</h1>
-<h3 align="center">I'm third-year student at PES Modern College of Engineering, Pune</h3>
+<!-- <img src="https://camo.githubusercontent.com/92319113a91e6741b5c0e7dc3386161ff7ad93ceadc1e53d663682a90136ec14/68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f677765622d756e69626c6f672d7075626c6973682d70726f642f6f726967696e616c5f696d616765732f31363332305f416e64726f69645f31325f426c6f675f4865616465725f6f70745f3331782e676966" alt="Android"/> -->
 
-<p align="left"> <a href="https://twitter.com/paraji_holkar" target="blank"><img src="https://img.shields.io/twitter/follow/paraji_holkar?logo=twitter&style=for-the-badge" alt="paraji_holkar" /></a> </p>
+
+<h1 align="center">Hi 👋, I'm Paraji Holkar</h1>
+<h3 align="center">Software Developer crafting clean, simple, and meaningful software.</h3>
+
 
 - 🌱 I’m currently learning **Android Development | Flutter**.
   
@@ -18,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/paraji_holkar" target="blank"><img align="center" src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png" alt="paraji_holkar" height="45" width="55" /></a>
+<a href="https://x.com/paraji_holkar" target="blank"><img align="center" src="https://imgs.search.brave.com/9oOO-UZkMhwWdhQSR4UyHZ9M2zJHUYiHeRXeRzcU_l8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/cHJvZC53ZWJzaXRl/LWZpbGVzLmNvbS81/ZDY2YmRjNjVlNTFh/MGQxMTRkMTU4OTEv/NjRjZWJlMWQzMWY1/MGUxNjFlNGM4MjVh/X1gtbG9nby10cmFu/c3BhcmVudC13aGl0/ZS10d2l0dGVyLnBu/Zw" alt="paraji_holkar" height="45" width="55" /></a>
 <a href="https://www.linkedin.com/in/paraji-holkar-a58ab2225" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="parajiholkar81" height="35" width="45" /></a>
 <a href="https://www.codechef.com/users/paraji_holkar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="paraji_holkar" height="40" width="50" /></a>
 <a href="https://www.hackerrank.com/parajiholkar81" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png" alt="parajiholkar81" height="40" width="50" /></a>
