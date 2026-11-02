@@ -78,8 +78,17 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=parajiholkar&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="Paraji's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=parajiholkar&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Paraji's Top Languages" />
+  <img
+    height="180em"
+    src="https://github-stats-extended.vercel.app/api?username=parajiholkar&show_icons=true&locale=en&theme=tokyonight&hide_border=true"
+    alt="Paraji's GitHub Stats"
+  />
+
+  <img
+    height="180em"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=parajiholkar&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Paraji's Top Languages"
+  />
 </div>
 
 <div align="center">
